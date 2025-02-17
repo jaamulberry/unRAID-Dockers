@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Container>
   <Name>Magic Mirror</Name>
-  <Description>unRAID deployment of bastilimbach's version of MagicMirror for Docker</Description>
-  <Registry>https://hub.docker.com/r/bastilimbach/docker-magicmirror/</Registry>
-  <Repository>bastilimbach/docker-magicmirror</Repository>
+  <Description>unRAID deployment of karsten13's version of MagicMirror for Docker</Description>
+  <Registry>https://hub.docker.com/r/karsten13/magicmirror/</Registry>
+  <Repository>karsten13/magicmirror</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
   <Environment/>
